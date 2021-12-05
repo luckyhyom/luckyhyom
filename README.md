@@ -19,4 +19,4 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyhyom&show_icons=true&theme=gruvbox_light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyhyom&show_icons=true&theme=default)
