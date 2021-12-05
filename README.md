@@ -1,3 +1,5 @@
+💁‍♀️ [About Me](https://yellow-salesman-c74.notion.site/cc475f160b2846b0814ae100329c258b)
+✏️ [Blog](https://baejjang.tistory.com/)
 <p align="">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
